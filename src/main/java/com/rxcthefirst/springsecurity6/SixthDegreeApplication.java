@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springsecurity6Application {
+public class SixthDegreeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Springsecurity6Application.class, args);
+		SpringApplication.run(SixthDegreeApplication.class, args);
 	}
 
 }
